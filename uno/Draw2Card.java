@@ -8,8 +8,8 @@ public class Draw2Card extends Card implements Actionable {
     public Draw2Card(Color color) {
         super(color);
     }
-@Override
-public String toString() {
+  @Override
+   public String toString() {
     return "Draw2Card{color=" + getColor() + "}";
 }
 

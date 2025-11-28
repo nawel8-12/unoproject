@@ -41,7 +41,7 @@ public class Player {
                                              // choissisant un nombre random de 1 a 4 et de repasser le choix sans le
                                              // relire !
         }
-
+        sc.close();
     }
 
     @Override
